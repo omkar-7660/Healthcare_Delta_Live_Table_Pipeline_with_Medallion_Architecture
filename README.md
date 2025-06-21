@@ -1,0 +1,1 @@
+# Healthcare_Delta_Live_Table_Pipeline_with_Medallion_Architecture
